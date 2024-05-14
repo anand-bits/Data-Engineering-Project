@@ -30,7 +30,7 @@ This project demonstrates a setup of a data pipeline using Kafka, Zookeeper, Pos
 1. Clone the repository:
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/anand-bits/Data-Engineering-Project
     cd <repository-name>
     ```
 
